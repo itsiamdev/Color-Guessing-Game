@@ -2,7 +2,7 @@
 
 Test your color perception skills in this fun and challenging game! 🎯 Guess the correct color from the options provided and see how many you can get right. Perfect for sharpening your visual acuity and having a great time! 🌈
 
-Play the game online: [https://iam269.github.io/Color-Guessing-Game/](https://iam269.github.io/Color-Guessing-Game/) 🚀
+Play the game online: [https://itsiamdev.github.io/Color-Guessing-Game/](https://itsiamdev.github.io/Color-Guessing-Game/) 🚀
 
 ## Features
 - 🎮 Interactive gameplay
